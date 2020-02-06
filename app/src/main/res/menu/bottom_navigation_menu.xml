@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/MapFragment"
+        android:title="@string/item_map"
+        android:icon="@drawable/ic_location_on_black_24dp"/>
+
+    <item android:id="@+id/StorageFragment"
+        android:title="item_storage"
+        android:icon="@drawable/ic_storage_white_24dp"/>
+
+    <item android:id="@+id/WebFragment"
+        android:title="item_web"
+        android:icon="@drawable/ic_web_white_24dp"/>
+
+    <item android:id="@+id/TimerFragment"
+        android:title="@string/item_timer"
+        android:icon="@drawable/ic_timer_black_24dp"/>
+
+</menu>
